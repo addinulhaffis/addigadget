@@ -2,7 +2,7 @@
 .seksyen1{
     background-image: url(images/banner\ 1.png);
     background-size: cover;
-    padding: 7% 15% 7%;
+    padding: 10% 15% 10%;
 }
 
 .banner{
@@ -21,13 +21,15 @@
 /* seksyen2 open */
 
 .seksyen2{
-    background-color:rgb(245, 246, 247);
+    background-image: url(images/pexels-cup-of-couple-6177591.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     padding: 5% 15% 5%;
     text-align: center;
 }
 
 .icon{
-    color: rgb(154, 190, 82);
+    color: rgb(15, 15, 15);
     margin-bottom: 1rem;
 }
 
@@ -43,8 +45,22 @@
 
 /* seksyen3 open */
 .carousel{
-    padding: 0% 9% 0%;
+    
+    background-color: cadetblue;
+    padding: 1% 5% 1%;
+
 }
+/* seksyen3 close */
+
+/* seksyen4 open */
+.seksyen4{
+    background-image: url(images/keyboard.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 7% 15% 7% ;
+}
+
 /* seksyen5 */
 .seksyen5{
     background-color: rgb(60, 96, 110);
