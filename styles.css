@@ -1,6 +1,7 @@
 /* seksyen 1 */
 .seksyen1{
-    background-color: rgb(85, 126, 117);
+    background-image: url(images/banner\ 1.png);
+    background-size: cover;
     padding: 7% 15% 7%;
 }
 
@@ -13,14 +14,14 @@
 }
 
 .tulisanPutih{
-    color: white;
+    color: rgb(7, 7, 7);
 }
 
 /* seksyen1 close */
 /* seksyen2 open */
 
 .seksyen2{
-    background-color: aliceblue;
+    background-color:rgb(245, 246, 247);
     padding: 5% 15% 5%;
     text-align: center;
 }
@@ -38,10 +39,15 @@
     text-align: center;
     pad: 7% 15% 7%;
 }
+/* seksyen2 close */
 
+/* seksyen3 open */
+.carousel{
+    padding: 0% 9% 0%;
+}
 /* seksyen5 */
 .seksyen5{
-    background-color: rgb(226, 192, 142);
+    background-color: rgb(60, 96, 110);
     padding: 5% 20% 5%;
     text-align: left;
     color: white;
